@@ -20,4 +20,14 @@ Answers:
 7. It does matter whether we write public or private class ticketmachine because when I switched it to private an error occcurs. The class diagram has Red lines over it indicating that there's an error. Error message says that the modifier private is not allowed here.
 8. It is possible to leave out the word public from the outer wrapper of the TicketMachine class.
 9. It is not possible to leave out the word class.
-10. Contructers: public ticketmachine (int cost) Methods: public int getPrice(), public int getBalance(), public void insertMoney(int amount), public void printTicket().
+10. Contructers: public ticketmachine (int cost) Methods: public int getPrice(), public int getBalance(), public void insertMoney(int amount), public void printTicket(). Fields: private int price; private int balance; private int total; return price; return balance;
+11. Capital letters, its public
+12. int, student, server
+13. alive, tutor, game
+14. private server host
+15. only the original order works. if you rearange the words and error appears.
+16. yes without the semicolon, there's an error.
+17. private int status;
+18.
+19.
+
