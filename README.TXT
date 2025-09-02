@@ -39,3 +39,4 @@ Answers:
 27. it says "not a statement"
 28. getPrice says "int" while the printTicket says "void" 
 29. No they do not have return statements. I think this is because they are not supposed to be returning money but only inserting money and printing tickets. 
+30. Yes. Before inserting money the getBalance amount was 0 and after inserting money the getBalance amount was 200.
