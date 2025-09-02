@@ -30,4 +30,12 @@ Answers:
 17. private int status;
 18.
 19.
-
+20.
+21.
+22.
+23. there are no differences.
+24. "How much money is in the machine"
+25. Changing the name from getBalance to getAmount does nothing and you can still compile it. This tells me that the name can be anything and it would still most likely work.
+27. it says "not a statement"
+28. getPrice says "int" while the printTicket says "void" 
+29. No they do not have return statements. I think this is because they are not supposed to be returning money but only inserting money and printing tickets. 
