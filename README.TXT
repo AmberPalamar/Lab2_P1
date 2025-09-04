@@ -45,3 +45,5 @@ Answers:
 33. Added a Screenshot.
 34. private int age (curent age)
 35. 
+36.
+37. My cat has green eyes.
