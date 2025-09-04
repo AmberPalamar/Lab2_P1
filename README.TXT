@@ -43,3 +43,5 @@ Answers:
 31. Added a Screenshot.
 32.
 33. Added a Screenshot.
+34. private int age (curent age)
+35. 
