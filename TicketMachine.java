@@ -75,4 +75,20 @@ public class TicketMachine
         // Clear the balance.
         balance = 0;
     }
+    
+/**
+* Increase score by the given number of points.
+*/
+public void increaseScore(int points)
+{
+// TODO: Increase score by the value in points.
+}
+
+/**
+* Reduce price by the given amount.
+*/
+public void discount(int amount)
+{
+// TODO: Subtract amount from price.
+}
 }
