@@ -28,7 +28,7 @@ Answers:
 15. only the original order works. if you rearange the words and error appears.
 16. yes without the semicolon, there's an error.
 17. private int status;
-18.
+18. Student
 19.
 20.
 21.
@@ -40,3 +40,10 @@ Answers:
 28. getPrice says "int" while the printTicket says "void" 
 29. No they do not have return statements. I think this is because they are not supposed to be returning money but only inserting money and printing tickets. 
 30. Yes. Before inserting money the getBalance amount was 0 and after inserting money the getBalance amount was 200.
+31. Added a Screenshot.
+32.
+33. Added a Screenshot.
+34. private int age (curent age)
+35. 
+36.
+37. My cat has green eyes.
