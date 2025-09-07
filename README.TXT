@@ -29,10 +29,9 @@ Answers:
 16. yes without the semicolon, there's an error.
 17. private int status;
 18. Student
-19.
-20.
+19. 2, string and double
+20. 
 21.
-22.
 23. there are no differences.
 24. "How much money is in the machine"
 25. Changing the name from getBalance to getAmount does nothing and you can still compile it. This tells me that the name can be anything and it would still most likely work.
@@ -41,9 +40,12 @@ Answers:
 29. No they do not have return statements. I think this is because they are not supposed to be returning money but only inserting money and printing tickets. 
 30. Yes. Before inserting money the getBalance amount was 0 and after inserting money the getBalance amount was 200.
 31. Added a Screenshot.
-32.
+32. Yes addCredits is a mutator 
 33. Added a Screenshot.
 34. private int age (curent age)
-35. 
+35. public void alive;
 36.
 37. My cat has green eyes.
+39. I think the word "price" would be printed out along with the number of cents.
+40. I think "# price cents" would be printed out.
+
